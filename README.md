@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Truong Tich Thien.
+I'm honored for the opportunity and am eagerly awaiting any further updates.
+Thank you once again for your time and consideration.
+
 <!--
 **truongtichthien/truongtichthien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
